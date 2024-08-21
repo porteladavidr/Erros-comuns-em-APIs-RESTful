@@ -17,6 +17,8 @@ Esta API Flask simples demonstra diversos endpoints e tratamentos de erros comun
 * **POST /criar-item:**
   * Cria um novo item.
 
+## Detalhes dos Endpoints
+
 ### GET /dados-seguros
 * **Descrição:** Retorna dados seguros após autenticação.
 * **Cabeçalhos:**
